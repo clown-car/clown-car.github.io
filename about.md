@@ -15,5 +15,6 @@ graph TD;
     C-->D;
 ```
 
+#### Isn't that a nice diagram?
 
 [Home](README.md)
