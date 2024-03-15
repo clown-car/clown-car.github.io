@@ -1,4 +1,4 @@
-## Welcome to My Page!
+## Welcome to My Page - Pretty neat, huh?
 
 ![circus tent](images/circus.jpg) 
 
